@@ -1,2 +1,3 @@
-<h3 align="center">Hola 👋, soy Alexandra García</h3>
-<P align="center">Diseñadora y desarrolladora web con experiencia en la práctica del pixel perfect y la metodología BEM. Estoy completamente entusiasmada con el desarrollo frontend y me encantaría compartir mis trabajos y proyectos contigo. ¿Te gustaría echarles un vistazo?</P>
+<h3 align="center">Hello 👋, I'm Alexandra García. You can call me Alex or Arigrafik</h3>
+<P align="center">
+Web designer and developer with experience in the practice of pixel perfect and the BEM methodology. I am completely enthusiastic about frontend development and would love to share my works and projects with you. Would you like to take a look at them?</P>
